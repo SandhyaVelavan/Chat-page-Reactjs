@@ -41,10 +41,26 @@ body{
 
 .search img {
     position: absolute;
-    top: 7px;
-    left: 10px;
+    top: 3px;
+    right: 5px;
+}
+
+.profile{
+    border-radius: 50%;
+    width: 45px;
+    margin-right: 6px;
+}
+
+.name{
+    font-size:larger;
 }
 
 .msg{
-    margin: 1px 5px;
+    color: grey;
+    font-size: medium;
+}
+
+.star{
+    position: relative;
+    right: 0;
 }
